@@ -2,14 +2,14 @@
   <img width="556" height="112" src="https://github.com/Anu1601CS/GSoC-2018-Work-Report/blob/master/src/gsoc.png">
 </p>
 
-My proposal for **Improved Override Management** was selected as an project under **Google Summer of Code 2018**. I worked with the organisation [Joomla](https://github.com/joomla/). My mentors are **Astrid** ([@astridx](https://github.com/astridx)) **Allon Moritz** ([@laoneo](https://github.com/laoneo)) **zero-24** ([@zero-24](https://github.com/zero-24)).
+My proposal for **Improved Override Management** was selected as an project under **Google Summer of Code 2018**.  I worked with the organisation [Joomla](https://github.com/joomla/). My mentors are **Astrid** ([@astridx](https://github.com/astridx)) **Allon Moritz** ([@laoneo](https://github.com/laoneo)) **zero-24** ([@zero-24](https://github.com/zero-24)).
 
 ## Goal
 
 This project adds the feature to Joomla which check for upgrades, if the template file is changed where an override exists, it notifies the user that one of core file of his template overrides is changed with the update, to avoid security issues or functionality issue and he can adjust his override before anyone can notice.
 
-`Project repository link: `https://github.com/joomla-projects/gsoc18_override_management
- 
+**Project repository link:** https://github.com/joomla-projects/gsoc18_override_management
+
 ## Results
 
 As planned we having met all the goals of the project.
