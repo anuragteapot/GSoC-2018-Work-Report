@@ -13,34 +13,34 @@ This project adds the feature to Joomla which check for upgrades, if the templat
 As planned we having met all the goals of the project.
 
 ### Core and Diff view
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/diff.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/diff.png">
 </p>
 
 ### Updated override list.
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/override_list.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/override_list.png">
 </p>
 
 ### Override notification plugin.
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin.png">
 </p>
 
 ### Override control plugin.
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin2.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin2.png">
 </p>
 
 ### Quick icon notification plugin.
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/quick-icon.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/quick-icon.png">
 </p>
 
 ### Links To Commits and Pull Requests
 
-<p align="left">
-  <img width="485" height="274" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/commit.png">
+<p align="center">
+  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/commit.png">
 </p>
 
 [Pull requests](https://github.com/joomla-projects/gsoc18_override_management/pulls?q=is%3Apr+author%3AAnu1601CS+is%3Aclosed)
