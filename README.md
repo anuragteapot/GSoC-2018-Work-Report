@@ -74,5 +74,3 @@ As planned we having met all the goals of the project.
 Joining Joomla and its community is a turning point in my life. Because it made me get familiar with the open source projects, how things deals and prepare for long term support and well as backward compatibility. I learned lot of things which I would have never learned without this project.
 
 The success of this project is my mentors and the Joomla community, everyone helped me a lot in his field when I needed help. So, a special thanks to all for love and support :)
-
-And, I am also thankful to `Google` for the opportunity to work on this project, which helped me learn a lot in such a short period of time.
