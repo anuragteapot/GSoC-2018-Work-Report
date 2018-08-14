@@ -8,6 +8,8 @@ My proposal for **Improved Override Management** was selected as an project unde
 
 This project adds the feature to Joomla which check for upgrades, if the template file is changed where an override exists, it notifies the user that one of core file of his template overrides is changed with the update, to avoid security issues or functionality issue and he can adjust his override before anyone can notice.
 
+`Project repository link: `https://github.com/joomla-projects/gsoc18_override_management
+ 
 ## Results
 
 As planned we having met all the goals of the project.
@@ -61,6 +63,11 @@ As planned we having met all the goals of the project.
 
 [Load correct core files of override files.](https://github.com/joomla-projects/gsoc18_override_management/pull/2)
 
+## Weekly Report, Blog post And Documentation.
+
+[Weekly reports](https://volunteers.joomla.org/teams/gsoc-18-improve-override-management)
+[Documentation](https://docs.joomla.org/J4.x:Improved_Override_Management)
+[Blog posts](https://community.joomla.org/gsoc-2018.html)
 
 ## Conclusion
 
