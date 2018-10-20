@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="556" height="112" src="https://github.com/Anu1601CS/GSoC-2018-Work-Report/blob/master/src/gsoc.png">
+  <img width="556" height="112" src="src/gsoc.png">
 </p>
 
 My proposal for **Improved Override Management** was selected as an project under **Google Summer of Code 2018**.  I worked with the organisation [Joomla](https://github.com/joomla/). My mentors are **Astrid** ([@astridx](https://github.com/astridx)) **Allon Moritz** ([@laoneo](https://github.com/laoneo)) **zero-24** ([@zero-24](https://github.com/zero-24)).
@@ -16,33 +16,33 @@ As planned we having met all the goals of the project.
 
 ### Core and Diff view
 <p align="center">
-  <img height="270" src="/src/diff.png">
+  <img height="270" src="src/diff.png">
 </p>
 
 ### Updated override list.
 <p align="center">
-  <img height="270" src="/src/override_list.png">
+  <img height="270" src="src/override_list.png">
 </p>
 
 ### Override notification plugin.
 <p align="center">
-  <img height="270" src="/src/plugin.png">
+  <img height="270" src="src/plugin.png">
 </p>
 
 ### Override control plugin.
 <p align="center">
-  <img height="270" src="/src/plugin2.png">
+  <img height="270" src="src/plugin2.png">
 </p>
 
 ### Quick icon notification plugin.
 <p align="center">
-  <img height="270" src="/src/quick-icon.png">
+  <img height="270" src="src/quick-icon.png">
 </p>
 
 ### Links To Commits and Pull Requests
 
 <p align="center">
-  <img height="270" src="/src/commit.png">
+  <img height="270" src="src/commit.png">
 </p>
 
 [Pull requests](https://github.com/joomla-projects/gsoc18_override_management/pulls?q=is%3Apr+author%3AAnu1601CS+is%3Aclosed)
