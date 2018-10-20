@@ -16,33 +16,33 @@ As planned we having met all the goals of the project.
 
 ### Core and Diff view
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/diff.png">
+  <img height="270" src="/src/diff.png">
 </p>
 
 ### Updated override list.
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/override_list.png">
+  <img height="270" src="/src/override_list.png">
 </p>
 
 ### Override notification plugin.
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin.png">
+  <img height="270" src="/src/plugin.png">
 </p>
 
 ### Override control plugin.
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/plugin2.png">
+  <img height="270" src="/src/plugin2.png">
 </p>
 
 ### Quick icon notification plugin.
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/quick-icon.png">
+  <img height="270" src="/src/quick-icon.png">
 </p>
 
 ### Links To Commits and Pull Requests
 
 <p align="center">
-  <img height="270" src="https://github.com/Anu1601cs/GSoC-2018-Work-Report/blob/master/src/commit.png">
+  <img height="270" src="/src/commit.png">
 </p>
 
 [Pull requests](https://github.com/joomla-projects/gsoc18_override_management/pulls?q=is%3Apr+author%3AAnu1601CS+is%3Aclosed)
